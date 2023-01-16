@@ -35,7 +35,7 @@ Grant applications can be [amended](https://github.com/pangolindex/Grants-Progra
 ### Additional information
 
 | <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: |
 | [Pangolin Website](https://pangolin.exchange) | [Pangolin Twitter](https://twitter.com/pangolindex) | [Pangolin Medium](https://pangolindex.medium.com/) | [Pangolin Reddit](https://www.reddit.com/r/PangolinExchange/) | [Pangolin YouTube](https://www.youtube.com/c/pangolinexchange) |
 
 ## :information_source: License <!-- omit in toc -->
