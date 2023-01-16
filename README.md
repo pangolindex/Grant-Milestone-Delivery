@@ -23,7 +23,7 @@ The milestone delivery process is part of the [W3F Grants Program](https://githu
    2. In the newly created fork, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/pangolindex/Grant-Milestone-Delivery/master/deliveries/milestone-delivery-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.  In the case of a maintenance application, use the ([`maintenance template`](maintenance_deliveries/maintenance-delivery-template.md)) instead.
    5. Fill out the template with the details of your milestone, including all deliverables as listed in your application.
    4. Name the file `project_name-milestone_number.md` or in the case of maintenance agreement `project_name-delivery_number.md`
-   5. Fill out the [invoice form](https://forms.gle/LSRr7PCjBpEbKGh89).
+   5. Fill out the [invoice form](https://docs.google.com/forms/d/e/1FAIpQLSejOrF1xkx_xH7Hv5aA8e1s1j4UkEiRuJVxFDBN07OL7qW0dA/viewform?usp=sf_link).
    6. Create a pull request and fill out the comment template.
 2. **Milestone Review:**
    1. [Evaluators](https://github.com/pangolindex/Grants-Program#team) can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
